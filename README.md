@@ -321,7 +321,7 @@ let EmianService = "163";
 //发送者邮箱账户SMTP授权码
 let EamilAuth = {
   user: "xxxxxx@163.com",
-  pass: "xxxxxx"
+  pass: "dsotwhfywhyucegd"
 };
 //发送者昵称与邮箱地址
 let EmailFrom = '"name" <xxxxxx@163.com>';
